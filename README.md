@@ -1,4 +1,4 @@
-# DC-Blueretro
+# blueretro-neogeo
 Magic modified firmware for DC blueretro four wireless controller versions
 ## How to update the firmware
   1) Download the  [NodeMCU-PyFlasher](https://github.com/marcelstoer/nodemcu-pyflasher/releases)and [Blueretro firmware](https://github.com/RetroScaler/DC-Blueretro/releases
